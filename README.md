@@ -5,7 +5,7 @@
 
 [查看脚本](https://github.com/mayushans/bilibili-block-login-prompt/blob/main/user.js)
 
-[哔哩哔哩安静游客 - Greasy Fork](https://greasyfork.org/zh-CN/scripts/482855)
+[哔哩哔哩 阻止侵入式的登录提示 - Greasy Fork](https://greasyfork.org/zh-CN/scripts/482855)
 
 使用浏览器插件 GreasyMonkey、Violentmonkey、TamperMonkey 导入脚本即可使用本脚本。
 

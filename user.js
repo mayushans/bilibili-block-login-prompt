@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         哔哩哔哩 阻止侵入式的登录提示
 // @namespace    http://www.mayushan.com/
-// @version      0.1.0
+// @version      0.1.2
 // @description  阻止B站侵入式的登录提醒
 // @author       MaYushan
 // @match        https://www.bilibili.com/video/*
 // @icon         https://www.bilibili.com/favicon.ico?v=1
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
