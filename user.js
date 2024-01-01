@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         哔哩哔哩 阻止侵入式的登录提示
 // @namespace    http://www.mayushan.com/
-// @version      0.1.2
+// @version      0.1.3
 // @description  阻止B站侵入式的登录提醒
 // @author       MaYushan
 // @match        https://www.bilibili.com/*
