@@ -4,7 +4,7 @@
 // @version      0.1.2
 // @description  阻止B站侵入式的登录提醒
 // @author       MaYushan
-// @match        https://www.bilibili.com/video/*
+// @match        https://www.bilibili.com/*
 // @icon         https://www.bilibili.com/favicon.ico?v=1
 // @license      MIT
 // @grant        none
